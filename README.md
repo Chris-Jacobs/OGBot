@@ -1,0 +1,13 @@
+"discord.js": "^6.1.0",
+"fast-csv": "^1.0.0",
+"feedparser": "1.1.x",
+"google": "1.1.x",
+"google-auth-library": "^0.9.7",
+"google-images": "0.1.x",
+"googleapis": "^4.0.0",
+"html-to-text": "1.5.x",
+"imgflipper": "1.0.x",
+"node-schedule": "^1.0.0",
+"request": ">=2.58.0",
+"winston": "2.2.x",
+"youtube-node": "1.2.x"

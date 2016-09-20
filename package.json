@@ -1,0 +1,31 @@
+{
+  "name": "OGBot",
+  "version": "1.1.0",
+  "description": "Bot for OpTic Discord",
+  "author": "Jan Vanhulle <https://github.com/arencia>",
+  "readme": "README.md",
+  "main": "discord_bot.js",
+  "keywords": [
+    "discord",
+    "optic"
+  ],
+  "dependencies": {
+    "chalk": "^1.1.3",
+    "discord.js": "^7.0.1",
+    "google-auth-library": "^0.9.7",
+    "googleapis": "^5.2.1",
+    "imgflipper": "^1.0.1",
+    "mkdirp": "^0.5.1",
+    "moment": "^2.13.0",
+    "nedb": "^1.8.0",
+    "node-schedule": "^1.1.0",
+    "nodemailer": "^2.3.2",
+    "request": "^2.72.0",
+    "rockets": "^1.2.4",
+    "snoowrap": "^1.0.0",
+    "websocket": "^1.0.22"
+  },
+  "devDependencies": {},
+  "private": true,
+  "license": "MIT"
+}

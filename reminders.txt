@@ -1,0 +1,19 @@
+Detect deleted messages
+Auto upload OpTic logs to google drive
+Notify on new member
+Command cooldown
+!schedule command (PMs sidebar schedule from subreddit);
+https://github.com/Automattic/mongoose
+http://discordjs.readthedocs.io/en/latest/
+https://github.com/hsiw/WishBot/blob/master/CommandHandler.js
+https://discordapp.com/developers/docs/intro
+
+
+
+Order:
+    1. Join server
+        * Check if server exists in db, if not add it
+    2. User joins server
+    3. User updated
+    4.
+    .. User types command

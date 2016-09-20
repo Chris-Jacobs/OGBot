@@ -1,0 +1,10 @@
+{
+    "botToken": "BOT_TOKEN",
+    "email" : "DISCORD_EMAIL",
+	"password" : "DISCORD_PASSWORD",
+	"youtube_api_key": "YOUTUBE_API_KEY",
+	"imgflip_username": "IMG_FLIP_USERNAME",
+	"imgflip_password": "IMG_FLIP_PASSWORD",
+	"driveClientID": "DRIVE_CLIENT_ID",
+	"driveClientSecret": "DRIVE_CLIENT_SECRET"
+}
